@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExecutiveOffice.EDT.GlobalNotesService", "ExecutiveOffice.EDT.GlobalNotesService\ExecutiveOffice.EDT.GlobalNotesService.csproj", "{402AB971-3D0C-48B5-BCA7-ECE04A473238}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExecutiveOffice.EDT.GlobalNotesService.Tests", "ExecutiveOffice.EDT.GlobalNotesService.Tests\ExecutiveOffice.EDT.GlobalNotesService.Tests.csproj", "{AAE777E8-3361-4EEA-8F3E-38C30CB60DC2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9980ECBD-A636-4C50-8AE5-DCA49EAE7F63}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{402AB971-3D0C-48B5-BCA7-ECE04A473238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{402AB971-3D0C-48B5-BCA7-ECE04A473238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{402AB971-3D0C-48B5-BCA7-ECE04A473238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{402AB971-3D0C-48B5-BCA7-ECE04A473238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAE777E8-3361-4EEA-8F3E-38C30CB60DC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE777E8-3361-4EEA-8F3E-38C30CB60DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE777E8-3361-4EEA-8F3E-38C30CB60DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE777E8-3361-4EEA-8F3E-38C30CB60DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ACB9626-E23D-4989-8EDF-3E2538DF0E4E}
+	EndGlobalSection
+EndGlobal
